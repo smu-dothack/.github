@@ -6,7 +6,7 @@ Welcome to the official GitHub organization of **SMU .Hack**, a special interest
 
 At SMU .Hack, we believe in the power of community-driven learning. Our mission is to cultivate a vibrant environment where tech enthusiasts come together to explore, learn, and build robust software systems. Whether you're a seasoned developer or just starting out, our workshops and events are designed to support your growth in the tech landscape.
 
-Learn more about us on our [Vivace page](https://vivace.smu.edu.sg/explore/academic-based/scis/smu-hack) and our [website](https://dothack-site.vercel.app/).
+Learn more about us on our [Vivace page](https://vivace.smu.edu.sg/explore/academic-based/scis/smu-hack) and our [website](https://smu-dothack.github.io/smudothack-site/).
 
 ## 🛠️ What You'll Find Here
 
@@ -28,8 +28,8 @@ This GitHub organization serves as a repository for the source code and material
 
 Interested in joining us or attending our events? We welcome individuals of all experience levels. Stay updated by joining our Telegram group and keep an eye out for upcoming events!
 
-For more information, visit either our [Vivace page](https://vivace.smu.edu.sg/explore/academic-based/scis/smu-hack) or our [website](https://dothack-site.vercel.app/).
+For more information, visit either our [Vivace page](https://vivace.smu.edu.sg/explore/academic-based/scis/smu-hack) or our [website](https://smu-dothack.github.io/smudothack-site/).
 
 ---
 
-© 2025 SMU .Hack
+© 2026 SMU .Hack
