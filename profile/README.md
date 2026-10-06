@@ -1,6 +1,6 @@
 # SMU .Hack
 
-Welcome to the official GitHub organization of **SMU .Hack**, a special interest group at Singapore Management University (SMU) passionate about software engineering and web development.
+Welcome to the official GitHub page of SMU .Hack, we partner up with Amazon Web Services (AWS) Student Builder Group and Google Developer Group, to empower students in AI, cloud, cybersecurity, & app development!
 
 ## 🚀 About Us
 
